@@ -1,0 +1,8 @@
+section:nth-child(2) span {
+    display: block;
+    color: white;
+    background-color: black;
+    height: 100px;
+    width: 300px;
+}
+
