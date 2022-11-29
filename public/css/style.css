@@ -6,3 +6,7 @@ section:nth-child(2) span {
     width: 300px;
 }
 
+section:nth-child(3) li:nth-child(odd) {
+    display: none;
+}
+
